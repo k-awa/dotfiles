@@ -1,0 +1,10 @@
+[user]
+	name = k-awa
+	email = awahara.w@gmail.com
+[color]
+	ui = auto
+[alias]
+	co = checkout
+	ci = commit
+	st = status
+	br = branch
