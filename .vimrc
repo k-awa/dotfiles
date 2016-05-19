@@ -14,3 +14,8 @@ set background=dark
 
 " インクリメンタルサーチ
 set incsearch
+
+" タブの設定
+set expandtab
+set tabstop=2
+set shiftwidth=2
